@@ -61,7 +61,7 @@ function App() {
             <p className="description">
               A short descritption. What is this thing, why does it matter to
               me. What did I do to make this thing & astly what will they be
-              clickking on
+              clickking on.
             </p>
           </div>
         </a>
