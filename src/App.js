@@ -54,7 +54,7 @@ function App() {
         <p>Creations I am proud of, some are coded others are designed.</p>
       </div>
       <div className="work_container">
-        <a>
+        <a href="https://front-end.matthewtylorvaccaro.now.sh/">
           <div className="left_container">
             <img className="project" src={work1} />
             <h3>• IM RECORDS</h3>
